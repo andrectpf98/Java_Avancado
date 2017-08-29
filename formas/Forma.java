@@ -1,0 +1,10 @@
+package formas;
+
+
+public abstract class Forma {
+	
+	
+	public abstract double area();
+	
+
+}
